@@ -3,7 +3,7 @@
 [![E-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://rafa.rafael.77@gmail.com)
 [![Mensenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100072037645934)
 
-![Rafael Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsr93&show_icons=true&theme=dracula&count_private=true)
+![Rafael Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsr93&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Tecnologias que eu estou aprendendo no meu dia
 
