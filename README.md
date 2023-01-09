@@ -18,15 +18,15 @@
 </div><br/>
 
 ## Formação
-- Cursando Análise e Desenvolvimento de Sistemas - UNINTER - Cachoeira do Sul | RS
+- Cursando Análise e Desenvolvimento de Sistemas - UNINTER - Cachoeira do Sul | RS - 2022
 
 ## Cursos e Certificados
 - Python 3 - Mundo 1 - 40 Horas - Introdução a linguagem, Conceitos e Recursos Básicos - CURSO EM VIDEO - 2022
 - Python 3 - Mundo 2 - 40 Horas - Estruturas de repetição, Conceitos e Usabilidades - CURSO EM VIDEO - 2022
 - Programa Gerir - Mercado e Competencias do Profissional Analytics e Big Data - UNINTER - 2022
-- Python Para Iniciantes - 2 Horas - UDEMY
-- Python do ZERO à Programação Orientada a Objetos - 16 Horas - UDEMY
-- Curso de HTML5&CSS3 Completo - 6 Horas - UDEMY
+- Python Para Iniciantes - 2 Horas - UDEMY - 2022
+- Python do ZERO à Programação Orientada a Objetos - 16 Horas - UDEMY - 2022
+- Curso de HTML5&CSS3 Completo - 6 Horas - UDEMY - 2023
 
 ## Ferramentas Usadas
 - <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
