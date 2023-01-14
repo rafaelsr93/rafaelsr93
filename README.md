@@ -19,6 +19,7 @@
 
 ## Formação
 - Cursando Análise e Desenvolvimento de Sistemas - UNINTER - Cachoeira do Sul | RS - 2022
+- Cursando Desenvolvimento Back-end - AMPLI - Cachoeira do Sul | RS - 2023
 
 ## Cursos e Certificados
 - Python 3 - Mundo 1 - 40 Horas - Introdução a linguagem, Conceitos e Recursos Básicos - CURSO EM VIDEO - 2022
