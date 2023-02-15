@@ -29,6 +29,7 @@
 - Python do ZERO à Programação Orientada a Objetos - 16 Horas - UDEMY - 2022
 - Curso de HTML5&CSS3 Completo - 6 Horas - UDEMY - 2023
 - Programação com App Inventor - 40 Horas - RECODE - 2023
+- HTML5eCSS3: Módulo 1 - 40 Horas - Curso em Video - 2023
 
 ## Ferramentas Usadas
 - <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
